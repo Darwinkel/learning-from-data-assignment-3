@@ -1,0 +1,4 @@
+tensorflow
+scikit-learn
+keras_tuner==1.4.3
+transformers
